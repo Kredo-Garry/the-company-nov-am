@@ -29,6 +29,7 @@
                             <button type="submit" class="btn btn-primary w-100">Login</button>
                         </form>
                         <p class="text-center mt-3 small"><a href="register.php">Create Account </a></p>
+                        <p class="text-center mt-1 smal">Kredo 2023</p>
                     </div>
                 </div>
             </div>
